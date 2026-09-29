@@ -218,4 +218,4 @@ V-Rally 3 is available as a full free version with all features and updates incl
 Download V-Rally 3 today and experience the excitement of rally racing like never before! Enjoy the thrill of the race, and don't miss out on this classic gaming experience!
 
 ---
-**Last updated:** 2026-09-29 08:12:43 UTC
+**Last updated:** 2026-09-29 15:35:06 UTC
